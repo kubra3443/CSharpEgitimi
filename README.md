@@ -68,6 +68,8 @@ Bu proje, gerçek bir yönetim paneli oluşturma deneyimi kazandırdı.
 🌍 Proje 11: EfTravel – Entity Framework ile İstatistik Paneli
 
 Bu projede Entity Framework kullanarak bir seyahat veritabanı üzerinde istatistiksel veri analizleri yaptım ve sonuçları Windows Forms arayüzünde görselleştirdim.
+<img width="824" height="428" alt="Ekran görüntüsü 2025-11-15 203924" src="https://github.com/user-attachments/assets/11c6a318-41c3-4ac1-91bd-2e9d95d27a08" />
+
 
 Teknik olarak uyguladığım konular:
 
